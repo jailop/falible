@@ -1,0 +1,13 @@
+@media (min-width: 1200px) {
+    .container{
+        max-width: 720px;
+    }
+}
+
+body {
+    font-family: 'Lora', serif;
+    font-size: 18px;
+    font-weight: 200;
+    padding-left: 10px;
+    padding-right: 10px;
+}
