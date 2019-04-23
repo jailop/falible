@@ -11,5 +11,6 @@ Visualizations:
 
 Blog:
 
+- [Epistemic vigilance against the new empiricism of Big Data](../research/2019/epistemic_vigilance_big_data.md). Apr. 22, 2019.
 - [Ciencia de los datos ampliada](2019/ciencia-datos-ampliada.md)
 

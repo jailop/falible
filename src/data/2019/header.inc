@@ -1,2 +1,2 @@
-[Data Science](../index.md)
+[Data](../index.md)
 

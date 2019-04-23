@@ -1,4 +1,5 @@
 - [Projects](projects/index.md)
+- [Research](research/index.md)
 - [Data Science](data/index.md)
 - [El Salvador](elsalvador/index.md)
 - [About me](about.md)
