@@ -1,5 +1,13 @@
 #!/usr/bin/python
 
+# Static website generator
+#
+# This script review updated files in an source path and convert
+# markdown files using a HTML template. Next, copy all updted files from
+# the source to a target path.
+#
+# (2019) Jaime Lopez <jailop AT gmail DOT com>
+
 import os
 import re
 from shutil import copyfile
@@ -10,10 +18,19 @@ SOURCE = './src'
 TARGET = './output'
 
 class Generator:
+    """
+    Class to generate static websites
+    """
     def __init__(self):
+        """
+        Loads in memory the default HTML template
+        """
         with open('templates/basic.html', 'r') as fd:
             self.template = Template(fd.read())
     def preprocess(self, filename, text):
+        """
+        Resolves paths and inclusions
+        """
         while True:
             begin = text.find('%include')
             if begin < 0:
@@ -27,6 +44,9 @@ class Generator:
             text = text.replace(sentence, include)
         return text
     def mkd(self, filename):
+        """
+        Converts markdown source files to html
+        """
         with open(filename, 'r') as fd:
             text = fd.read()
             text = self.preprocess(filename, text)
@@ -38,6 +58,11 @@ class Generator:
         with open(outname, 'w') as fd:
             fd.write(html)
     def walker(self, directory):
+        """
+        Looks for new or updated files in the source path
+        making required conversions. Copy to the
+        destination path converted files.
+        """
         for filename in os.listdir(directory):
             longname = directory + '/' + filename
             outname = longname.replace(SOURCE, TARGET)

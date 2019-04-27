@@ -1,4 +1,4 @@
-# Research
+# Research Methodology
 
 Blog:
 

@@ -44,8 +44,8 @@ design.
 Rieder, G. & Simon, J. (2017). Big Data: A New Empiricism and its Epistemic and
 Socio-Political Consequences. In W. Pietsch, J. Wernecke, & M. Ott (Eds.),
 _Berechenbarkeit der Welt? Philosophie und Wissenschaft im Zeitalter von Big
-Data_ (pp. 85–105). <https://doi.org/10.1007/978-3-658-12153-2_4>
+Data_ (pp. 85–105). Springer VS. <https://doi.org/10.1007/978-3-658-12153-2_4>
 
 **Resource:**
 
-[A mindmap: To resume the article of Rieder & Simon (2017)](doc/rieder_simon_2017.mm)
+[A mindmap to resume the article of Rieder & Simon (2017)](doc/rieder_simon_2017.mm) (FreeMind format)
