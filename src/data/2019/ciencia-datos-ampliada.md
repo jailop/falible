@@ -37,7 +37,7 @@ sus actividades y preferencias.
 En la reseña histórica, Donoho se remonta a un artículo de John Turkey de 1962
 titulado "Field of Data Analysis" (el campo del análisis de los datos). Turkey
 veía a la estadística como parte de una entidad mayor, a la que él llamó
-"análisis de datos", la cual sería una nueva ciencia en lugar de un rama de las
+"análisis de datos", la cual sería una nueva ciencia en lugar de una rama de las
 matemáticas. El campo del análisis de datos propuesto por Turkey tendría un
 contenido intelectual, estaría organizado en una forma comprensible y dependería
 de la experiencia como estándar de validez. Las fuerzas que guiarían dicho campo

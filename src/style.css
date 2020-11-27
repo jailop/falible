@@ -10,5 +10,11 @@ body {
     font-weight: 150;
     padding-left: 10px;
     padding-right: 10px;
-    line-height: 180%;
+}
+
+article p {
+  text-align: justify;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  line-height: 180%;
 }

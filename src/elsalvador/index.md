@@ -7,6 +7,5 @@ Blog:
 
 Citas en prensa:
 
-- [IAIP evalúa si divulgar libro diario de gastos
-  reservados](https://elmundo.sv/iaip-evalua-si-divulgar-libro-diario-de-gastos-reservados/).
+- <a href="https://elmundo.sv/iaip-evalua-si-divulgar-libro-diario-de-gastos-reservados/" target="_blank">IAIP evalúa si divulgar libro diario de gastos reservados</a>. 
   El Mundo. Apr. 17, 2019
